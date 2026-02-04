@@ -1,0 +1,47 @@
+# Linux LVM Disk Management Project
+
+## 📌 Overview
+This project demonstrates Logical Volume Management (LVM) for storage administration.
+
+---
+
+## 🎯 Objectives
+- Create physical volume
+- Create volume group
+- Create logical volume
+- Format and mount disk
+- Extend logical volume
+
+---
+
+## 🧰 Commands Used
+- lsblk
+- fdisk
+- pvcreate
+- vgcreate
+- lvcreate
+- mkfs
+- mount
+- resize2fs
+
+---
+
+## ⚙️ Tasks Performed
+- Added new disk
+- Created LVM partitions
+- Mounted storage
+- Extended disk space
+
+---
+
+## 💻 Environment
+- RHEL / Ubuntu
+- VMware Virtual Disk
+
+---
+
+## ✅ Skills Demonstrated
+- Storage Management
+- Disk Administration
+- Linux Filesystems
+cture
